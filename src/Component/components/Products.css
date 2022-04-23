@@ -1,0 +1,34 @@
+#input-box {
+  background: #cac3c3;
+  width: 250px;
+  height: 50px;
+  border: 0;
+  border-radius: 5px;
+  margin: 10px;
+  padding: 0px 10px 0 10px;
+}
+#submit-box {
+  background: #9683ec;
+  height: 50px;
+  border: 0;
+  padding: 0px 20px 0 20px;
+  border-radius: 5px;
+  color: #222516;
+  font-weight: 800;
+}
+.name-list h2 {
+  font-size: 30px;
+  color: #bb8dc7;
+  text-decoration: underline;
+}
+.name-list ol {
+  text-align: left;
+  display: inline-block;
+  padding: 0;
+  margin: 0;
+}
+
+.name-list ol li {
+  color: #cab1b1;
+  font-size: 25px;
+}
