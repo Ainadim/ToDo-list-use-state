@@ -31,4 +31,5 @@
 .name-list ol li {
   color: #cab1b1;
   font-size: 25px;
+  text-transform: capitalize;
 }
